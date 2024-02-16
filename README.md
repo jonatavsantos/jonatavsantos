@@ -6,10 +6,6 @@
 
 Hi! I'm Jonata Santos, I'm a developer, I live in Brazil. I'm passionate about programming. This is where I share my projects and code snippets
 
-## Contact
-
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/joon.venancio)
-
 ## Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
